@@ -1,4 +1,4 @@
-# unity-generic-singleton
+# Unity-Generic-Singleton
 Unity Monobehavior Generic Singleton that I'm using in my own projects
 
 # Usage
